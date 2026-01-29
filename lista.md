@@ -1,6 +1,7 @@
 **Lista de repositorios**
 
 - Rafael Villarroel: https://github.com/rvf0068
+- Jose Rodolfo De la cruz Flores: https://github.com/de428179
 - Mendoza Roque Marcela: https://github.com/me400582-arch
 - Arizbeth Guadalupe Bautista Romero: https://github.com/ba463904-dev
 - Roberto Eduardo Hernandez Benitez: https://github.com/robertoeduardohernandezbenitez-ux
